@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef221d97-4329-4f9e-95cf-ebe6a73dba01" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/demo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/demo2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/motocicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/motocicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/demo2/vehiculos/vehiculo.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef221d97-4329-4f9e-95cf-ebe6a73dba01" name="Changes" comment="Finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,11 +85,24 @@
       <option name="presentableId" value="Default" />
       <updated>1722542500719</updated>
       <workItem from="1722542501783" duration="3780000" />
-      <workItem from="1722548211113" duration="599000" />
+      <workItem from="1722548211113" duration="1056000" />
     </task>
+    <task id="LOCAL-00001" summary="Finalizado">
+      <option name="closed" value="true" />
+      <created>1722548874845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722548874845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado" />
   </component>
 </project>
