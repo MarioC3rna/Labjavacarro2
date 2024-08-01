@@ -1,17 +1,41 @@
 package umg.demo2;
 
+import umg.demo2.vehiculos.carro;
+import umg.demo2.vehiculos.motocicleta;
+import umg.demo.conductores.conductor;
+import umg.demo.conductores.conductordemotos;
+import umg.demo.conductores.conductordecoche;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+public class Main
+{
+    public static void main(String[] args)
+    {
+     carro mazda= new carro("mazda ","cx-60 ",2010,5);
+     mazda.mostrar();
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+     motocicleta honda =new motocicleta("Honda ","cbr ",2013,true);
+     honda.mostrar();
+
+     conductordemotos conductordemots= new conductordemotos("Rudito","434631",true);
+        conductordemots.mostrarInfo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
